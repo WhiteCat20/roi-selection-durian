@@ -1,2 +1,3 @@
 # ROI Selection of Durian
-by Faiz Rahmadani
+
+durian dataset: https://www.kaggle.com/code/tankejie/durians/input 
